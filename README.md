@@ -23,14 +23,15 @@
 
 ## II. Visualization
 ### 1. Order Management
-![image](https://github.com/user-attachments/assets/fdbb5f1c-b794-4fa7-9691-7ee8112555f2)
+![image](https://github.com/user-attachments/assets/d2b315bd-e9d7-407f-8c66-1dc8bdbf2e72)
 
 ### 2. Traffic Analysis
 ![image](https://github.com/user-attachments/assets/0aca475d-b978-422d-9082-db839d41d62e)
 
 ## III. Insights
 ### Key finding: What we have in Order Management System?
-- Frist of all, we was recorded 10 billion dollards for gross revenue but the actual revenue is only 8 billions, 2 billions from cancelled order have to refund for customers. This affect significant on our total 
-gross revenue.
-
+- First of all, we was recorded 10 billion dollards for gross revenue but the actual revenue is only 8 billions, 2 billions from cancelled order have to refund for customers. This affect significant on our total gross revenue.
+- We can see that one person only one item we can digest in this point to up sale by give promotion such as buy 1 item the next one will discount x%
+- Another thing need to focus is Selling Pirce versus Original Price, without any voucher but the selling price is still slower than the original price from manufacturer. Which make gross revenue was decrease so we need to figure what is the root.
+- The quantity of orders is highest on July 12th 
 
