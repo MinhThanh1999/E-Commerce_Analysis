@@ -1,5 +1,5 @@
 # E-Commerce_Analysis
-## INTRODUCTION
+## I.INTRODUCTION
 ### 1.Background
 - We are an agency who want to become the 1-stop technological interface to grow online sales in South East Asia
 - We are serving companies ranging from top-tier international brands to small purely online businesses providing them each with the right services and tech to address the issues that impact their growth including online marketing, marketplace platform sales optimization, social commerce ...
@@ -20,3 +20,17 @@
 ###  So we have to solve these challenges:
   - Give a summary on the key findings from given dataset.
   - Propose a few actions we need to take, why and how we should implement it to achieve the above KPI.
+
+## II. Visualization
+### 1. Order Management
+![image](https://github.com/user-attachments/assets/fdbb5f1c-b794-4fa7-9691-7ee8112555f2)
+
+### 2. Traffic Analysis
+![image](https://github.com/user-attachments/assets/0aca475d-b978-422d-9082-db839d41d62e)
+
+## III. Insights
+### Key finding: What we have in Order Management System?
+- Frist of all, we was recorded 10 billion dollards for gross revenue but the actual revenue is only 8 billions, 2 billions from cancelled order have to refund for customers. This affect significant on our total 
+gross revenue.
+
+
