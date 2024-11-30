@@ -30,8 +30,17 @@
 
 ## III. Insights
 ### Key finding: What we have in Order Management System?
-- First of all, we was recorded 10 billion dollards for gross revenue but the actual revenue is only 8 billions, 2 billions from cancelled order have to refund for customers. This affect significant on our total gross revenue.
-- We can see that one person only one item we can digest in this point to up sale by give promotion such as buy 1 item the next one will discount x%
+- First of all, we was recorded 10 billion dollards for gross revenue but the actual revenue is only 8 billions, 2 billions from cancelled order have to refund for customers. The cancelled rate is almost 20% every day, which affect significant on our total gross revenue so we need to improve it.
+- We can see that one person only purchase one item, we need to digest in this point to up sale by giving promotion such as buy 1 item the next one will discount x%
 - Another thing need to focus is Selling Pirce versus Original Price, without any voucher but the selling price is still slower than the original price from manufacturer. Which make gross revenue was decrease so we need to figure what is the root.
-- The quantity of orders is highest on July 12th 
+- The quantity of orders is highest on July 12th, it takes over 36,23% of total gross revenue, this day must have something special to push our customer to buy.
+- Retention rate is low in a month, which need tracking over month to see if it is not change then we should figure out the root causes.
 
+### Key finding: What is key informationa about traffic from Google Analytics?
+- Total users were recorded, which is much higher than number of customers were recorded by Order Manaagement System with about 90% users are new. Notably, Top5 sources take over 90% total Users of all source and so are new users. Google is the most attractive Source, it took over 50% total revenue of all source.
+=> All of that show top 5 source are potential to convert users to our customer.
+- Besides that, our bounce rate is high and conversion rate is low, which means the site is not attractive and not yet meet customer's expectation, leading Conversion rate is low, limit total revenue.
+- Retention user is quite low per source, need tracking over month, if the average rentention overlap so we need to improve it.
+
+### Conclusion:
+What should we do to achieve the target?
