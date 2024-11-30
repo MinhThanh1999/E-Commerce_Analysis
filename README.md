@@ -23,24 +23,28 @@
 
 ## II. Visualization
 ### 1. Order Management
-![image](https://github.com/user-attachments/assets/d2b315bd-e9d7-407f-8c66-1dc8bdbf2e72)
+![image](https://github.com/user-attachments/assets/8551da00-5585-4848-9fe8-3dee94276060)
 
 ### 2. Traffic Analysis
-![image](https://github.com/user-attachments/assets/0aca475d-b978-422d-9082-db839d41d62e)
+![image](https://github.com/user-attachments/assets/fdbeb37a-184b-4bc5-be98-a4b13b8d8f7e)
 
 ## III. Insights
-### Key finding: What we have in Order Management System?
-- First of all, we was recorded 10 billion dollards for gross revenue but the actual revenue is only 8 billions, 2 billions from cancelled order have to refund for customers. The cancelled rate is almost 20% every day, which affect significant on our total gross revenue so we need to improve it.
-- We can see that one person only purchase one item, we need to digest in this point to up sale by giving promotion such as buy 1 item the next one will discount x%
-- Another thing need to focus is Selling Pirce versus Original Price, without any voucher but the selling price is still slower than the original price from manufacturer. Which make gross revenue was decrease so we need to figure what is the root.
-- The quantity of orders is highest on July 12th, it takes over 36,23% of total gross revenue, this day must have something special to push our customer to buy.
-- Retention rate is low in a month, which need tracking over month to see if it is not change then we should figure out the root causes.
+### Key Findings: What Do We Have in the Order Management System?
+- First of all, we recorded $10 billion in gross revenue, but the actual revenue is only $8 billion. This discrepancy is due to $2 billion in refunds for canceled orders. The cancellation rate is nearly 20% daily, which significantly impacts our total gross revenue. We need to address this issue.
+- We observed that customers typically purchase only one item per order. To encourage upselling, we should introduce promotions, such as offering a discount of X% on the second item purchased.
+- Another area of concern is the Selling Price versus Original Price. Even without applying any vouchers, the selling price is consistently lower than the original manufacturer’s price, which reduces gross revenue. We need to investigate and identify the root cause.
+- The highest number of orders was placed on July 12th, accounting for over 36.23% of total gross revenue. This day seems to have something special driving customer purchases, and we should leverage it further.
+- The monthly retention rate is low. We need to track this over time and, if no improvement is observed, identify the root causes.
 
-### Key finding: What is key informationa about traffic from Google Analytics?
-- Total users were recorded, which is much higher than number of customers were recorded by Order Manaagement System with about 90% users are new. Notably, Top5 sources take over 90% total Users of all source and so are new users. Google is the most attractive Source, it took over 50% total revenue of all source.
-=> All of that show top 5 source are potential to convert users to our customer.
-- Besides that, our bounce rate is high and conversion rate is low, which means the site is not attractive and not yet meet customer's expectation, leading Conversion rate is low, limit total revenue.
-- Retention user is quite low per source, need tracking over month, if the average rentention overlap so we need to improve it.
+### Key Findings: Key Information About Traffic from Google Analytics
+- Total users recorded in Google Analytics are much higher than the number of customers in the Order Management System, with about 90% of users being new. Notably, the top 5 sources contribute over 90% of total users, including new users. Google is the most effective source, generating over 50% of total revenue across all sources.
+=> These insights show that the top 5 sources have significant potential for converting users into customers.
+However, our bounce rate is high, and the conversion rate is low. This suggests that the website is not attractive or fails to meet customer expectations, limiting the total revenue.
+- Retention of users from each source is also quite low. We need to monitor this over time, and if retention rates remain stagnant, improvements will be necessary.
 
-### Conclusion:
-What should we do to achieve the target?
+### Conclusion: What Should We Do to Achieve the Target?
+1. Address the High Cancellation Rate: Collect customer feedback and improve products to better meet their needs.
+2. Encourage Upselling: Apply promotions such as "Buy 1 item and get X% off on the second item" to increase the average items per order and drive sales.
+3. Leverage Peak Days: Boost advertising and stimulate demand on the busiest day of each month by offering special promotions on that day.
+4. Enhance the Website: Fix issues on the website or landing pages to improve the user experience and better meet customer expectations, increasing the buying rate.
+5. Focus on Top Sources: Strengthen strategies to attract more customers from the top 5 sources by segmenting and targeting key customer groups effectively.
